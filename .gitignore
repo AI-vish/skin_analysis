@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# ML / large files you don't want in Git
+*.h5
+*.pth
+*.ckpt
+*.joblib
+*.pickle
+data/
+models/
+*.log
+wandb/
+runs/
+tensorboard/
+
+# IDE / editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows junk
+Thumbs.db
+desktop.ini

@@ -180,4 +180,3 @@ http://127.0.0.1:8000/docs
 ## Integration
 
 This backend is designed to pair with a **React Native** mobile app. Point the app's image upload to `POST /predict-skin`, and render the returned scores however you like — progress bars, color-coded overlays, trend charts, etc.
-

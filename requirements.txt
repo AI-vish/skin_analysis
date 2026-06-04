@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+opencv-python
+numpy
+mediapipe
+pydantic
+pydantic-settings
+python-multipart
